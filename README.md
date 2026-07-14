@@ -13,25 +13,25 @@
 
 ### Screen for Adding file
 
-![Adding File](screenshots/Adding-files-screen.jpg)
+![Adding File](screenshots/Adding-files-screen.JPG)
 
 ---
 
 ### Display post addition
 
-![Display post addition](screenshots/Added-files.jpg)
+![Display post addition](screenshots/Added-files.JPG)
 
 ---
 
 ### Selecting Merge location
 
-![Selecting Merge location](screenshots/Selecting-Merge-location-and-name.jpg)
+![Selecting Merge location](screenshots/Selecting-Merge-location-and-name.JPG)
 
 ---
 
 ### Merge Completed
 
-![Merge Completed](screenshots/Success-message.jpg)
+![Merge Completed](screenshots/Success-message.JPG)
 
 ---
 

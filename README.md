@@ -11,21 +11,27 @@
 
 ## Screenshots
 
-### Main Window
+### Screen for Adding file
 
-![Main Window](screenshots/main_window.png)
+![Adding File](screenshots/Adding-files-screen.jpg)
 
 ---
 
-### PDF Selection
+### Display post addition
 
-![PDF Selection](screenshots/pdf_selection.png)
+![Display post addition](screenshots/Added-files.jpg)
+
+---
+
+### Selecting Merge location
+
+![Selecting Merge location](screenshots/Selecting-Merge-location-and-name.jpg)
 
 ---
 
 ### Merge Completed
 
-![Merge Completed](screenshots/merge_completed.png)
+![Merge Completed](screenshots/Success-message.jpg)
 
 ---
 

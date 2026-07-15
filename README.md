@@ -105,6 +105,22 @@ PDF-Merger/
 └── pyproject.toml
 ```
 
+
+# Source Code Overview
+
+| File | Purpose | Dependencies |
+|------|---------|--------------|
+| `main.py` | Application entry point. Initializes the application and launches the main window. | Python, CustomTkinter |
+| `src/config.py` | Stores application-wide configuration values, constants, and settings. | Python |
+| `src/core/pdf_merger.py` | Implements the core PDF merging logic while preserving page order and document integrity. | Python, pypdf |
+| `src/models/pdf_file.py` | Defines the data model representing a selected PDF document and its properties. | Python |
+| `src/services/file_service.py` | Handles file selection, validation, and output file operations. | Python, pathlib |
+| `src/services/pdf_service.py` | Provides PDF processing functions using the pypdf library. | Python, pypdf |
+| `src/ui/main_window.py` | Builds the main graphical user interface and coordinates user interactions. | Python, CustomTkinter |
+| `src/ui/components/file_list.py` | Displays the selected PDF files and their metadata. | Python, CustomTkinter |
+| `src/ui/components/button_panel.py` | Creates and manages the application's action buttons. | Python, CustomTkinter |
+| `src/utils/validators.py` | Contains reusable validation utilities for validating input and output files. | Python |
+| `src/utils/helpers.py` | Provides common helper functions shared across the application. | Python |
 ---
 
 # Module Overview
